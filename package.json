@@ -843,7 +843,7 @@
         "download": "^6.2.5",
         "fuzzysearch": "^1.0.3",
         "graceful-fs": "^4.1.15",
-        "js-yaml": "^3.12.1",
+        "js-yaml": "^3.13.1",
         "k8s": "^0.4.12",
         "lodash": "^4.17.11",
         "mkdirp": "^0.5.1",
